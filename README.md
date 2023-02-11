@@ -15,7 +15,7 @@ In this project, we intend to learn about the impact on people's mental health i
 
 ## Artifacts
 
-- Demo: [Demo link](map_new.html) and/or [dev set-up instructions](DEV_INSTRUCTIONS.md)
+- Demo: [Demo link](map.html) and/or [dev set-up instructions](DEV_INSTRUCTIONS.md)
 - Model performance notebooks: https://github.com/DSCI-554/project-professional-models/blob/master/viz.pdf
 - Paper: [Overleaf read-only link (if applicable)]([https://www.overleaf.com/read/btvmfhdyrbvk](https://www.overleaf.com/read/kpvtrmqgpfss)) and [paper PDF](paper/paper.pdf)
 - Video: [YouTube link](https://youtu.be/f-EoWlQuVCg)
